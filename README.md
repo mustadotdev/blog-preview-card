@@ -4,7 +4,7 @@ A solution to the [Frontend Mentor Blog Preview Card challenge](https://www.fron
 
 ## Screenshot
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Built with
 
