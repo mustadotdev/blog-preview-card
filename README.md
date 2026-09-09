@@ -1,6 +1,6 @@
 # Blog Preview Card
 
-A solution to the [Frontend Mentor Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPuwm8tR).
+A solution to the [Frontend Mentor Blog Preview Card challenge](https://www.frontendmentor.io/solutions/html-and-css-blog-preview-card-with-custom-css-styling-jUThY499Wh).
 
 ## Screenshot
 
